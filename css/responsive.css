@@ -1,0 +1,38 @@
+/* Responsive Styles */
+@media only screen and (max-width: 767px) {
+	#page {
+		overflow: hidden;
+	}
+	#wrapper {
+		background-size: 100% 100%;
+	}
+	.page-title img {
+		width: 75%;
+	}
+	.header-left-description,
+	.header-middle-image,
+	.header-right-description {
+		display: block;
+	}
+	.header-left-description,
+	.header-right-description {
+		width: 90%;
+		text-align: center;
+		padding-left: 5%;
+	}
+	.header-middle-image {
+		margin-top: 0;
+		text-align: center;
+	}
+	.header-middle-image img {
+		width: 75%;
+	}
+	.header-content {
+		width: 100%;
+	}
+	.cta-button {
+		padding: 0;
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+}
