@@ -2,12 +2,12 @@
 @media only screen and (max-width: 767px) {
 	#page {
 		overflow: hidden;
-	}
+	} 
 	#wrapper {
 		background-size: 100% 100%;
 	}
 	.page-title img {
-		width: 75%; 
+		width: 75%;  
 	}
 	.header-left-description,
 	.header-middle-image,
