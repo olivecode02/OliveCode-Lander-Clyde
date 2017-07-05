@@ -35,4 +35,28 @@
 		padding-bottom: 30px;
 		padding-top: 30px;
 	}
+	.gallery-slider img {
+		width: 100% !important;
+	}
+	.features {
+		padding: 0 !important;
+		width: 96% !important;
+		margin-left: 2% !important;
+	}
+	.features-box {
+		padding: 0 !important;
+		width: 100% !important;
+	}
+	.features-box > div {
+		margin-top: 25px;
+	}
+	.olive-testimony{
+		background-size: 100% 100%;
+	}
+	.testimony {
+		display: block;
+		margin: 0 auto !important;
+		padding-top: 25px !important;
+		padding-bottom: 25px !important;
+	}
 }
